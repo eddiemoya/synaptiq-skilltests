@@ -24,10 +24,17 @@ documentation at https://polaris.shopify.com/patterns/date-picking/single-date
 - You should be prepared to discuss your changes in detail and explain why they are great.
 
 ## Date Selector
-The date selector integrates multiple components from Polaris to create a responsive, easy to use, interactive way to select dates. 
 
+# Description
+The date selector integrates multiple components from Polaris to create a responsive, easy to use, interactive way to select dates.
+
+# Setup
 `yarn install`
-`yarn build`
-`npx next start`
 
-The demo implementation is viewable at http://localhost:3000/demo
+# Running Storybook
+
+`yarn build`
+
+`yarn storybook`
+
+ 
