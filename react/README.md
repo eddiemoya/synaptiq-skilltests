@@ -23,15 +23,15 @@ documentation at https://polaris.shopify.com/patterns/date-picking/single-date
 - You should fork this repository and open a pull request against it with your changes.
 - You should be prepared to discuss your changes in detail and explain why they are great.
 
-## Date Selector
+# Date Selector
 
-# Description
+## Description
 The date selector integrates multiple components from Polaris to create a responsive, easy to use, interactive way to select dates.
 
-# Setup
+## Setup
 `yarn install`
 
-# Running Storybook
+## Running Storybook
 
 `yarn build`
 
